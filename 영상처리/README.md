@@ -8,3 +8,4 @@
   
 [3. 화소 단위처리 - 히스토그램 스트레칭, 평활화](https://github.com/chldydgh4687/self.treasure_box/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC/%EC%98%81%EC%83%81%ED%99%94%EC%86%8C%EB%8B%A8%EC%9C%84%EC%B2%98%EB%A6%AC.md)  
   
+[4. 영역 단위처리 - 평균필터(에지무시,제로패딩,미러링), 고역, 저역](https://github.com/chldydgh4687/self.treasure_box/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC/%EC%98%81%EC%97%AD%EB%8B%A8%EC%9C%84%EC%B2%98%EB%A6%AC.md)
