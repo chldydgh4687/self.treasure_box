@@ -11,3 +11,5 @@
 [4. 영역 단위처리 - 평균필터(에지무시,제로패딩,미러링), 고역, 저역](https://github.com/chldydgh4687/self.treasure_box/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC/%EC%98%81%EC%97%AD%EB%8B%A8%EC%9C%84%EC%B2%98%EB%A6%AC.md)
 
 [5. 기하학적 변환 - 보간(nearest, linear, bicubic ](https://github.com/chldydgh4687/self.treasure_box/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC/%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%20%EB%B3%80%ED%99%98.md)
+
+[6. 푸리에 변환 - 고주파, 저주파](https://github.com/chldydgh4687/self.treasure_box/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC/%ED%91%B8%EB%A6%AC%EC%97%90%EB%B3%80%ED%99%98.md)
